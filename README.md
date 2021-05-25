@@ -1,6 +1,6 @@
- email: wantuir.germano@gmail.com
- linkedin: https://www.linkedin.com/in/claudio-germano-b88602154/
- discord: Dremus#3569
+ Email: wantuir.germano@gmail.com
+ Linkedin: https://www.linkedin.com/in/claudio-germano-b88602154/
+ Discord: Dremus#3569
 
 <!---
 claudio-germano/claudio-germano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
