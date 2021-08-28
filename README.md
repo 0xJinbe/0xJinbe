@@ -1,13 +1,13 @@
 
-<h3>### Hello! 🙏</h3>
+<h1>- Hello! 🙏</h1>
 
-<h2> I am a Micro brewery general manager studying BackEnd in Python and having fun creating landing pages with html/CSS/Tailwind/JS.</h2>
-
+<h2> I am International Relations bachelor coursing PostGraduation on Software Engineering - Federal University of Uberlândia/University Estácio de Sá- BR.</h2>
+<h2> Studying BackEnd in Python and having fun creating landing pages with html/CSS/Tailwind/JS.</h2>
 <h3>- ⚙️ I use daily: `Python`, `tailwind`, `html`, `CSS`.</h3>
 
-<h2>Bachelor in International Relations coursing PostGraduation on Software Engineering - Federal University of Uberlandia/Universidade Estácio de Sá- BR. </h2>
 
-<h3>- 🌱 Learning all about **Javascript**, **CSS**, **tailwind** and **Python Libs**</h3>
+
+<h3>- 🌱 Learning all about **Javascript**, **CSS**, **Tailwind** and **Python Libs**</h3>
  
 <h3>- 📫 Contact me:</h3>
 
