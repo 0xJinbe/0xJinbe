@@ -1,7 +1,7 @@
 
 <h3>### Hello! 🙏</h3>
 
-<h1> I am a Micro brewery general manager studying BackEnd in Python and having fun creating landing pages with html/CSS/Tailwind/JS.</h1>
+<h2 I am a Micro brewery general manager studying BackEnd in Python and having fun creating landing pages with html/CSS/Tailwind/JS.</h2>
 
 <h3>- ⚙️ I use daily: `Python`, `tailwind`, `html`, `CSS`.</h3>
 
