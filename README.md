@@ -7,7 +7,7 @@
 
 <h2>Bachelor in International Relations coursing PostGraduation on Software Engineering - Federal University of Uberlandia/Universidade Estácio de Sá- BR. </h2>
 
-<h3>- 🌱 Learning all about **Javascript**, **Vue.js**, **tailwind** and **Python Libs**</h3>
+<h3>- 🌱 Learning all about **Javascript**, **CSS**, **tailwind** and **Python Libs**</h3>
  
 <h3>- 📫 Contact me:</h3>
 
