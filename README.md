@@ -7,7 +7,7 @@
 
 
 
-<h3>- 🌱 Learning about **Javascript**, **CSS**, **Tailwind** and **Python Libs**</h3>
+<h3>- 🌱 Learning about **Python - Django**, **CSS**, **Tailwind** and **cripto**</h3>
  
 <h3>- 📫 Contact me:</h3>
 
