@@ -1,9 +1,13 @@
 
-<h1>Let´s get the ONE PIECE.
-BR dev going deep on cripto World.</h1>
+<h1>Let´s get the ONE PIECE. 
+Brazilian Dev going deep on cripto waters.
+Founder at Ghost WebDev | Co-founder 
+@BrazilBlockHz</h1>
 
 
 <h3>Twitter: https://twitter.com/0xJinbe</h3>
+<h3>Twitter: https://brazil-block-hunters.netlify.app/</h3>
+<h3>Twitter: https://brazil-block-hunters.netlify.app/</h3>
 
 <h3>Discord: 0xJinbe#3569</h3>
 
