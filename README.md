@@ -6,8 +6,8 @@ Founder at Ghost WebDev | Co-founder
 
 
 <h3>Twitter: https://twitter.com/0xJinbe</h3>
-<h3>Twitter: https://brazil-block-hunters.netlify.app/</h3>
-<h3>Twitter: https://brazil-block-hunters.netlify.app/</h3>
+<h3>BrazilBlockHunters: https://brazil-block-hunters.netlify.app/</h3>
+<h3>GhostWebDev: https://ghost-web.netlify.app/</h3>
 
 <h3>Discord: 0xJinbe#3569</h3>
 
