@@ -5,7 +5,7 @@ Founder at Ghost WebDev | Co-founder
 @BrazilBlockHz</h1>
 
 
-<h3>https://www.jinbe.dev/</h3>
+<h3>https://www.jinbe.dev</h3>
 
 <!---
 claudio-germano/claudio-germano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
