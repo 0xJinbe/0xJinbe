@@ -5,13 +5,7 @@ Founder at Ghost WebDev | Co-founder
 @BrazilBlockHz</h1>
 
 
-<h3>Twitter: https://twitter.com/0xJinbe</h3>
-<h3>BrazilBlockHunters: https://brazil-block-hunters.netlify.app/</h3>
-<h3>GhostWebDev: https://ghost-web.netlify.app/</h3>
-<h3>Portfolio: https://jinbe-portfolio.netlify.app/</h3>
-<h3>Medium: https://medium.com/@0xJinbe</h3>
-
-<h3>Discord: 0xJinbe#3569</h3>
+<h3>https://www.jinbe.dev/</h3>
 
 <!---
 claudio-germano/claudio-germano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
