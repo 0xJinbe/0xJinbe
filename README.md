@@ -34,27 +34,13 @@ object **0xJINBE** {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=claudio-germano&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+#### Lets Connect!
 
-[website]: (https://claudio-germano.github.io/portfolio/)/
-[twitter]: (https://twitter.com/0xJinbe)
-[instagram]: (https://www.instagram.com/ghost.web.dev/)
-[linkedin]: (https://www.linkedin.com/in/claudio-germano-b88602154/)
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
+🏡 [website][(https://claudio-germano.github.io/portfolio/)] **|** 
+🐦 [twitter][(https://twitter.com/0xJinbe)] **|**  
+📷 [instagram][(https://www.instagram.com/ghost.web.dev/)] **|** 
+👔 [linkedin][(https://www.linkedin.com/in/claudio-germano-b88602154/)]
