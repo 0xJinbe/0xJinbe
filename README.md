@@ -1,7 +1,7 @@
 ## ✌️ Hello, I'm <strong>Claudio Germano!</strong>
 
 > International Relations Bachelor - Federal University of Uberlândia,
-incomplete postgraduate degree in Software Engineering.
+incomplete postgraduation in Software Engineering.
 
 🔭 Experienced in general commercial management, I
 opened/founded Ghost Web to sell small own IT projects. I do
