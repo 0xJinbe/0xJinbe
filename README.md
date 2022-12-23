@@ -1,7 +1,7 @@
-### Hayo dev frens 👋
+### Hayo dev frens ✌️ ✌️
 
 🔭 Experienced in general commercial management, I opened/founded [Ghost Web](https://ghost-web.netlify.app/)
- to sell small own IT projects.I owl [Techy Baby](https://techybaby.com.br/) and sometimes I work as a freelancer for cripto [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
+ to sell small own IT projects.I own [Techy Baby](https://techybaby.com.br/) and sometimes I work as a freelancer for cripto [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
