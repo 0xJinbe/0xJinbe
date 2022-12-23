@@ -1,6 +1,7 @@
 ### Hayo dev frens 👋
 
-🔭 Experienced in general commercial management, I opened/founded Ghost Web to sell small own IT projects. I sometimes work as a freelancer for cripto projects.
+🔭 Experienced in general commercial management, I opened/founded [Ghost Web](https://ghost-web.netlify.app/)
+ to sell small own IT projects.I owl [Techy Baby](https://techybaby.com.br/) and sometimes I work as a freelancer for cripto [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
@@ -18,7 +19,7 @@ object **0xJINBE** {
 }
 ```
 
-## ** 🚀 Linguagens e Ferramentas:**  
+## ** 🚀 Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,7 +29,7 @@ object **0xJINBE** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## **👀 Estudando
+## **👀 Learning
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -40,7 +41,7 @@ object **0xJINBE** {
 
 #### Lets Connect!
 
-🏡 [website][(https://claudio-germano.github.io/portfolio/)] **|** 
-🐦 [twitter][(https://twitter.com/0xJinbe)] **|**  
-📷 [instagram][(https://www.instagram.com/ghost.web.dev/)] **|** 
-👔 [linkedin][(https://www.linkedin.com/in/claudio-germano-b88602154/)]
+🏡 [WEBSITE](https://claudio-germano.github.io/portfolio/) **|** <br> 
+🐦 [TWITTER](https://twitter.com/0xJinbe) **|**  <br>
+📷 [INSTAGRAM](https://www.instagram.com/ghost.web.dev/) **|**  <br>
+👔 [LINKEDIN](https://www.linkedin.com/in/claudio-germano-b88602154/)
