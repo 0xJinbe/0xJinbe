@@ -1,6 +1,6 @@
 ### Hayo dev frens ✌️ ✌️
 
-🔭 Experienced in general commercial management, I opened/founded [Ghost Web](https://ghost-web.netlify.app/)
+🔭 Experienced in general commercial management, I opened/founded [Ghost Web](https://ghostweb.digital/)
  to sell small own IT projects.I own [Techy Baby](https://techybaby.com.br/) and sometimes I work as a freelancer for cripto [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
 
 
