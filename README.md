@@ -1,7 +1,6 @@
 ### Hayo dev frens ✌️ ✌️
 
-As the founder of [Ghost Web](https://ghostweb.digital/)
- I help several niches to raise the level of their exposure and professional presence online. As a Blockchain FrontEnd developer, I create interfaces for Ethereum projects that offer visual functionality to smartcontracts. [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
+As a Blockchain FrontEnd developer, I create interfaces for Ethereum projects that offer visual functionality to smartcontracts. [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
