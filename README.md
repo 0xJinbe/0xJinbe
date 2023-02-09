@@ -1,23 +1,12 @@
 ### Hayo dev frens ✌️ ✌️
 
-🔭 Experienced in general commercial management, I opened/founded [Ghost Web](https://ghostweb.digital/)
- to sell small own IT projects.I own [Techy Baby](https://techybaby.com.br/) and sometimes I work as a freelancer for cripto [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
+As the founder of [Ghost Web](https://ghostweb.digital/)
+ I help several niches to raise the level of their exposure and professional presence online. As a Blockchain FrontEnd developer, I create interfaces for Ethereum projects that offer visual functionality to smartcontracts. [projects](https://www.jinbe.dev/). Welcome to my [WebPortfolio](https://claudio-germano.github.io/portfolio/)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **0xJINBE** {
- val name = "CLAUDIO W. GERMANO .JR."
- val acknowledgements = "FRONT END"
- 
- val primarySkillset = "SOME SKILLS"
- val languages = listOf("Java :(", "Python", "JavaScript :)", "React") 
-
-}
-```
 
 ## ** 🚀 Languages and Tools:**  
 
