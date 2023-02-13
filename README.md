@@ -31,5 +31,3 @@ As a Blockchain FrontEnd developer, I create interfaces for Ethereum projects th
 
 🏡 [WEBSITE](https://claudio-germano.github.io/portfolio/) **|** <br> 
 🐦 [TWITTER](https://twitter.com/0xJinbe) **|**  <br>
-📷 [INSTAGRAM](https://www.instagram.com/ghost.web.dev/) **|**  <br>
-👔 [LINKEDIN](https://www.linkedin.com/in/claudio-germano-b88602154/)
