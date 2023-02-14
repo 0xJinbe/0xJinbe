@@ -25,7 +25,7 @@ As a Blockchain FrontEnd developer, I create interfaces for Ethereum projects th
 
 ## **GitHub Stats**
 
-[![card](https://github-readme-stats.vercel.app/api?username=0xJinbeo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=0xJinbe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Lets Connect!
 
